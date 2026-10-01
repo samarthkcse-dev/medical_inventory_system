@@ -1,0 +1,6 @@
+{
+  "name": "PharmaTrack - Medicine Inventory & Expiry Alert System",
+  "description": "Hospital and pharmacy medicine inventory management system with automated expiry alerts, batch tracking, stock monitoring, and compliance auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
